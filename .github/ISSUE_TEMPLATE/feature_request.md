@@ -2,7 +2,7 @@
 name: Feature request
 about: Feature request or improvement suggestion
 title: ''
-labels: feature request
+labels: ''
 assignees: raffel080108
 
 ---
