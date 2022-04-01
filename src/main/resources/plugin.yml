@@ -1,4 +1,0 @@
-name: RightClickEC
-version: '${project.version}'
-main: raffel080108.rightclickec.Main
-api-version: 1.18
